@@ -1,9 +1,0 @@
-1|Informatico
-2|Analista
-3|Gerente
-4|Jefe de Tics
-5|director
-6|concerje
-7|jefe de rol
-8|bodeguero
-9|Asistente
